@@ -6,6 +6,4 @@ import streamlit as st
 st.title('テストアプリ')
 """   
     
-  
 st.code(code, language='python')
-
